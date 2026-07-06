@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Knots — Gear Library</title>
+<style>
+  :root {
+    --bg: #F4F1E8;
+    --surface: #FFFDF7;
+    --accent: #315B3C;
+    --ember: #D36B2B;
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--accent);
+    font-family: -apple-system, Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 16px;
+    background: var(--accent);
+    color: var(--surface);
+  }
+  header h1 {
+    margin: 0;
+    font-size: 20px;
+  }
+  main {
+    padding: 12px;
+  }
+  .card {
+    background: var(--surface);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 16px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  .card .body {
+    padding: 12px;
+  }
+  .card h2 {
+    margin: 0 0 6px;
+    font-size: 16px;
+    color: var(--ember);
+  }
+  .card > .body > p {
+    margin: 0 0 10px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .card ol {
+    margin: 0 0 10px;
+    padding-left: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .card ol li {
+    margin-bottom: 4px;
+  }
+  .final img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .credit {
+    font-size: 11px;
+    color: #8a8778;
+    margin: 8px 0 0;
+    padding: 0 12px 12px;
+  }
+  .credit a {
+    color: inherit;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Category: Knots</h1>
+</header>
+<main>
+  <div class="card">
+    <div class="body">
+      <h2>Square knot (reef knot)</h2>
+      <p>A binding knot for joining two ends of similar thickness: cinching a duffel, fabric, or shoelaces. Needs a careful pattern — tied wrong, it becomes a self-slipping granny knot.</p>
+      <ol>
+        <li>Cross the right end over the left and tuck it under.</li>
+        <li>With the same end (now on the left), cross it over the other and tuck under again.</li>
+        <li>Tighten — both ends should exit the knot parallel to the standing parts.</li>
+      </ol>
+    </div>
+    <div class="final">
+      <img src="images/square-knot.jpg" alt="Square (reef) knot tied on a rope">
+    </div>
+    <p class="credit">Photo: <a href="https://commons.wikimedia.org/wiki/File:Barb._Kreuzknoten_01.jpg">Der Barbar, Wikimedia Commons</a>, CC BY-SA 4.0</p>
+  </div>
+</main>
+</body>
+</html>

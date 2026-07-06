@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Knots — Gear Library</title>
+<style>
+  :root {
+    --bg: #F4F1E8;
+    --surface: #FFFDF7;
+    --accent: #315B3C;
+    --ember: #D36B2B;
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--accent);
+    font-family: -apple-system, Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 16px;
+    background: var(--accent);
+    color: var(--surface);
+  }
+  header h1 {
+    margin: 0;
+    font-size: 20px;
+  }
+  main {
+    padding: 12px;
+  }
+  .card {
+    background: var(--surface);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 16px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  .card .body {
+    padding: 12px;
+  }
+  .card h2 {
+    margin: 0 0 6px;
+    font-size: 16px;
+    color: var(--ember);
+  }
+  .card > .body > p {
+    margin: 0 0 10px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .card ol {
+    margin: 0 0 10px;
+    padding-left: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .card ol li {
+    margin-bottom: 4px;
+  }
+  .final img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .credit {
+    font-size: 11px;
+    color: #8a8778;
+    margin: 8px 0 0;
+    padding: 0 12px 12px;
+  }
+  .credit a {
+    color: inherit;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Category: Knots</h1>
+</header>
+<main>
+  <div class="card">
+    <div class="body">
+      <h2>Clove hitch</h2>
+      <p>A sailor's knot for tensioning a rope against a post: a tarp, a guyline, a washing line. Easy to adjust for length even after it's tied. On thin cord (1-3 mm) it can be hard to untie.</p>
+      <ol>
+        <li>Wrap the rope around the post, crossing the working end over the standing part.</li>
+        <li>Make a second wrap around the post next to the first.</li>
+        <li>Tuck the working end under the last wrap and tighten.</li>
+      </ol>
+    </div>
+    <div class="final">
+      <img src="images/clove-hitch.jpg" alt="Clove hitch tied on a pole">
+    </div>
+    <p class="credit">Photo: <a href="https://commons.wikimedia.org/wiki/File:Clove_hitch_3783.jpg">ClemRutter, Wikimedia Commons</a>, CC BY-SA 4.0</p>
+  </div>
+</main>
+</body>
+</html>

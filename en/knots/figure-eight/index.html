@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Knots — Gear Library</title>
+<style>
+  :root {
+    --bg: #F4F1E8;
+    --surface: #FFFDF7;
+    --accent: #315B3C;
+    --ember: #D36B2B;
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--accent);
+    font-family: -apple-system, Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 16px;
+    background: var(--accent);
+    color: var(--surface);
+  }
+  header h1 {
+    margin: 0;
+    font-size: 20px;
+  }
+  main {
+    padding: 12px;
+  }
+  .card {
+    background: var(--surface);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 16px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  .card .body {
+    padding: 12px;
+  }
+  .card h2 {
+    margin: 0 0 6px;
+    font-size: 16px;
+    color: var(--ember);
+  }
+  .card > .body > p {
+    margin: 0 0 10px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .card ol {
+    margin: 0 0 10px;
+    padding-left: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .card ol li {
+    margin-bottom: 4px;
+  }
+  .final img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .credit {
+    font-size: 11px;
+    color: #8a8778;
+    margin: 8px 0 0;
+    padding: 0 12px 12px;
+  }
+  .credit a {
+    color: inherit;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Category: Knots</h1>
+</header>
+<main>
+  <div class="card">
+    <div class="body">
+      <h2>Figure-eight knot</h2>
+      <p>A simple, reliable knot. Used as a safety and stopper knot to keep a rope from slipping out of a carabiner or buckle. Its main downside: it cinches under load, so it's harder to untie after a hard fall than a bowline.</p>
+      <ol>
+        <li>Fold the rope and form a loop in the working end.</li>
+        <li>Wrap the working end around the standing part of the rope.</li>
+        <li>Thread the working end back through the loop.</li>
+        <li>Tighten the knot by pulling both ends snug.</li>
+      </ol>
+    </div>
+    <div class="final">
+      <img src="images/figure-eight-photo.jpg" alt="Finished figure-eight knot tied on a rope">
+    </div>
+    <p class="credit">Photo: <a href="https://commons.wikimedia.org/wiki/File:Figure_eight_knot.JPG">Just plain Bill, Wikimedia Commons</a>, CC BY-SA 3.0</p>
+  </div>
+</main>
+</body>
+</html>

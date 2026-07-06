@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Узлы — Библиотека снаряжения</title>
+<style>
+  :root {
+    --bg: #F4F1E8;
+    --surface: #FFFDF7;
+    --accent: #315B3C;
+    --ember: #D36B2B;
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--accent);
+    font-family: -apple-system, Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 16px;
+    background: var(--accent);
+    color: var(--surface);
+  }
+  header h1 {
+    margin: 0;
+    font-size: 20px;
+  }
+  main {
+    padding: 12px;
+  }
+  .card {
+    background: var(--surface);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 16px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  .card .body {
+    padding: 12px;
+  }
+  .card h2 {
+    margin: 0 0 6px;
+    font-size: 16px;
+    color: var(--ember);
+  }
+  .card > .body > p {
+    margin: 0 0 10px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .card ol {
+    margin: 0 0 10px;
+    padding-left: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .card ol li {
+    margin-bottom: 4px;
+  }
+  .final img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .credit {
+    font-size: 11px;
+    color: #8a8778;
+    margin: 8px 0 0;
+    padding: 0 12px 12px;
+  }
+  .credit a {
+    color: inherit;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Категория: Узлы</h1>
+</header>
+<main>
+  <div class="card">
+    <div class="body">
+      <h2>Восьмерка</h2>
+      <p>Простой и надёжный узел. Используется как страховочный и стопорный, чтобы верёвка не выскальзывала из карабина или пряжки. Главный минус — затягивается под нагрузкой, поэтому после сильного рывка развязать его сложнее, чем булинь.</p>
+      <ol>
+        <li>Сложите верёвку вдвое и сформируйте петлю на рабочем конце.</li>
+        <li>Оберните рабочий конец вокруг коренного конца верёвки.</li>
+        <li>Проденьте рабочий конец в получившуюся петлю.</li>
+        <li>Затяните узел, аккуратно подтягивая обе стороны.</li>
+      </ol>
+    </div>
+    <div class="final">
+      <img src="images/figure-eight-photo.jpg" alt="Готовый узел восьмерка, затянутый на верёвке">
+    </div>
+    <p class="credit">Фото: <a href="https://commons.wikimedia.org/wiki/File:Figure_eight_knot.JPG">Just plain Bill, Wikimedia Commons</a>, CC BY-SA 3.0</p>
+  </div>
+</main>
+</body>
+</html>
