@@ -63,6 +63,24 @@
     height: auto;
     display: block;
   }
+  .steps h3 {
+    margin: 16px 0 8px;
+    padding: 0 12px;
+    font-size: 13px;
+    color: var(--ember);
+  }
+  .steps .row {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    padding: 0 12px 12px;
+  }
+  .steps .row img {
+    height: 150px;
+    width: auto;
+    border-radius: 8px;
+    flex-shrink: 0;
+  }
   .credit {
     font-size: 11px;
     color: #8a8778;
@@ -90,10 +108,21 @@
         <li>Затяните узел, аккуратно подтягивая обе стороны.</li>
       </ol>
     </div>
+    <div class="steps">
+      <h3>Пошаговые фото</h3>
+      <div class="row">
+        <img src="images/step-1.webp" alt="Восьмёрка — шаг 1" loading="lazy">
+        <img src="images/step-2.webp" alt="Восьмёрка — шаг 2" loading="lazy">
+        <img src="images/step-3.webp" alt="Восьмёрка — шаг 3" loading="lazy">
+        <img src="images/step-4.webp" alt="Восьмёрка — шаг 4" loading="lazy">
+        <img src="images/step-5.webp" alt="Восьмёрка — шаг 5" loading="lazy">
+      </div>
+    </div>
     <div class="final">
-      <img src="images/figure-eight-photo.jpg" alt="Готовый узел восьмерка, затянутый на верёвке">
+      <img src="images/figure-eight-photo.webp" alt="Готовый узел восьмерка, затянутый на верёвке" loading="lazy">
     </div>
     <p class="credit">Фото: <a href="https://commons.wikimedia.org/wiki/File:Figure_eight_knot.JPG">Just plain Bill, Wikimedia Commons</a>, CC BY-SA 3.0</p>
+    <p class="credit">Фото шагов: <a href="https://www.splav.ru/library/sovety/7-poleznyh-uzlov-dlya-turistov-i-ne-tolko/">Splav.ru</a></p>
   </div>
 </main>
 </body>

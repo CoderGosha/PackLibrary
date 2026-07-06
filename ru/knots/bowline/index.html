@@ -63,6 +63,24 @@
     height: auto;
     display: block;
   }
+  .steps h3 {
+    margin: 16px 0 8px;
+    padding: 0 12px;
+    font-size: 13px;
+    color: var(--ember);
+  }
+  .steps .row {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    padding: 0 12px 12px;
+  }
+  .steps .row img {
+    height: 150px;
+    width: auto;
+    border-radius: 8px;
+    flex-shrink: 0;
+  }
   .credit {
     font-size: 11px;
     color: #8a8778;
@@ -91,10 +109,21 @@
         <li>Затяните узел и завяжите контрольный узел на свободном конце.</li>
       </ol>
     </div>
+    <div class="steps">
+      <h3>Пошаговые фото</h3>
+      <div class="row">
+        <img src="images/step-1.webp" alt="Булинь — шаг 1" loading="lazy">
+        <img src="images/step-2.webp" alt="Булинь — шаг 2" loading="lazy">
+        <img src="images/step-3.webp" alt="Булинь — шаг 3" loading="lazy">
+        <img src="images/step-4.webp" alt="Булинь — шаг 4" loading="lazy">
+        <img src="images/step-5.webp" alt="Булинь — шаг 5" loading="lazy">
+      </div>
+    </div>
     <div class="final">
-      <img src="images/bowline.jpg" alt="Узел булинь, завязанный на верёвке">
+      <img src="images/bowline.webp" alt="Узел булинь, завязанный на верёвке" loading="lazy">
     </div>
     <p class="credit">Фото: <a href="https://commons.wikimedia.org/wiki/File:As_de_guia_5.jpg">Patricio.lorente, Wikimedia Commons</a>, CC BY-SA 2.5</p>
+    <p class="credit">Фото шагов: <a href="https://www.splav.ru/library/sovety/7-poleznyh-uzlov-dlya-turistov-i-ne-tolko/">Splav.ru</a></p>
   </div>
 </main>
 </body>

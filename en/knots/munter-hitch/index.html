@@ -63,6 +63,24 @@
     height: auto;
     display: block;
   }
+  .steps h3 {
+    margin: 16px 0 8px;
+    padding: 0 12px;
+    font-size: 13px;
+    color: var(--ember);
+  }
+  .steps .row {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    padding: 0 12px 12px;
+  }
+  .steps .row img {
+    height: 150px;
+    width: auto;
+    border-radius: 8px;
+    flex-shrink: 0;
+  }
   .credit {
     font-size: 11px;
     color: #8a8778;
@@ -89,10 +107,19 @@
         <li>Flip the loop over the carabiner spine — the hitch is ready; flip it again to reverse braking direction.</li>
       </ol>
     </div>
+    <div class="steps">
+      <h3>Step-by-step photos</h3>
+      <div class="row">
+        <img src="images/step-1.webp" alt="Munter hitch — step 1" loading="lazy">
+        <img src="images/step-2.webp" alt="Munter hitch — step 2" loading="lazy">
+        <img src="images/step-3.webp" alt="Munter hitch — step 3" loading="lazy">
+      </div>
+    </div>
     <div class="final">
-      <img src="images/munter-hitch.jpg" alt="Munter hitch tied on a carabiner">
+      <img src="images/munter-hitch.webp" alt="Munter hitch tied on a carabiner" loading="lazy">
     </div>
     <p class="credit">Photo: <a href="https://commons.wikimedia.org/wiki/File:Munter_Hitch.jpg">Climber.Ben.Johnson, Wikimedia Commons</a>, CC BY-SA 4.0</p>
+    <p class="credit">Step photos: <a href="https://www.splav.ru/library/sovety/7-poleznyh-uzlov-dlya-turistov-i-ne-tolko/">Splav.ru</a></p>
   </div>
 </main>
 </body>
