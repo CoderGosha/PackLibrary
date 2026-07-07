@@ -1,0 +1,40 @@
+{
+  "title": "Узлы",
+  "groups": [
+    {
+      "title": "Узлы соединения двух верёвок — для удлинения, либо закольцовывания",
+      "items": [
+        {"slug": "square-knot", "title": "Прямой узел"},
+        {"slug": "grapevine", "title": "Грейпвайн"}
+      ]
+    },
+    {
+      "title": "Узлы для привязывания",
+      "items": [
+        {"slug": "girth-hitch", "title": "Стремя"},
+        {"slug": "clove-hitch", "title": "Штык"}
+      ]
+    },
+    {
+      "title": "Узлы-петли",
+      "items": [
+        {"slug": "bowline", "title": "Булинь"},
+        {"slug": "figure-eight", "title": "Восьмерка"}
+      ]
+    },
+    {
+      "title": "Специальный узел",
+      "items": [
+        {"slug": "munter-hitch", "title": "УИАА (узел Мунтера)"}
+      ]
+    },
+    {
+      "title": "Узлы для гамака",
+      "items": [
+        {"slug": "simple-loop", "title": "Простой проводник"},
+        {"slug": "figure-eight", "title": "Восьмерка"},
+        {"slug": "noose-hitch", "title": "Узел «Удавка»"}
+      ]
+    }
+  ]
+}

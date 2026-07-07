@@ -1,0 +1,17 @@
+{
+  "title": "Восьмерка",
+  "description": "Простой и надёжный узел. Используется как страховочный и стопорный, чтобы верёвка не выскальзывала из карабина или пряжки. Главный минус — затягивается под нагрузкой, поэтому после сильного рывка развязать его сложнее, чем булинь.",
+  "steps": [
+    "Сложите верёвку вдвое и сформируйте петлю на рабочем конце.",
+    "Оберните рабочий конец вокруг коренного конца верёвки.",
+    "Проденьте рабочий конец в получившуюся петлю.",
+    "Затяните узел, аккуратно подтягивая обе стороны."
+  ],
+  "images": ["images/step-1.webp", "images/step-2.webp", "images/step-3.webp", "images/step-4.webp", "images/step-5.webp"],
+  "credit": {"text": "Splav.ru", "url": "https://www.splav.ru/library/sovety/7-poleznyh-uzlov-dlya-turistov-i-ne-tolko/"},
+  "extra": {
+    "label": "Альтернативная схема",
+    "images": ["images/hammock-photo.webp", "images/hammock-schematic.webp"],
+    "credit": {"text": "Gamma Gamakov", "url": "https://www.gamma-gamakov.ru/blogs/blog/uzly-dlja-gamaka"}
+  }
+}

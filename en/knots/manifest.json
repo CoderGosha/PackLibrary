@@ -1,0 +1,40 @@
+{
+  "title": "Knots",
+  "groups": [
+    {
+      "title": "Rope-joining knots — for extending or making a loop",
+      "items": [
+        {"slug": "square-knot", "title": "Square knot (reef knot)"},
+        {"slug": "grapevine", "title": "Grapevine (double fisherman's)"}
+      ]
+    },
+    {
+      "title": "Hitches",
+      "items": [
+        {"slug": "girth-hitch", "title": "Girth hitch"},
+        {"slug": "clove-hitch", "title": "Clove hitch"}
+      ]
+    },
+    {
+      "title": "Loop knots",
+      "items": [
+        {"slug": "bowline", "title": "Bowline"},
+        {"slug": "figure-eight", "title": "Figure-eight knot"}
+      ]
+    },
+    {
+      "title": "Special knot",
+      "items": [
+        {"slug": "munter-hitch", "title": "Munter hitch (UIAA / Italian hitch)"}
+      ]
+    },
+    {
+      "title": "Hammock knots",
+      "items": [
+        {"slug": "simple-loop", "title": "Simple loop knot"},
+        {"slug": "figure-eight", "title": "Figure-eight knot"},
+        {"slug": "noose-hitch", "title": "Noose hitch"}
+      ]
+    }
+  ]
+}

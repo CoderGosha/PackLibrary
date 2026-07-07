@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Build zip archive
-        run: zip -r packlibrary.zip en ru
+        run: zip -r packlibrary.zip en ru manifest.json
 
       - name: Create release and upload asset
         uses: softprops/action-gh-release@v2

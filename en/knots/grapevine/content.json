@@ -1,0 +1,12 @@
+{
+  "title": "Grapevine (double fisherman's)",
+  "description": "Joins two ropes of the same or different diameter securely. It cinches very tight under load and is hard to untie afterward, so tie it only when you don't plan on undoing it soon.",
+  "steps": [
+    "Lay the two rope ends facing each other, overlapping.",
+    "Wrap one end around the other rope twice and thread it back through the wraps.",
+    "Do the same with the other end around the first rope, in the opposite direction.",
+    "Tighten both small knots separately, then pull them together snug."
+  ],
+  "images": ["images/step-1.webp", "images/step-2.webp", "images/step-3.webp", "images/step-4.webp"],
+  "credit": {"text": "Splav.ru", "url": "https://www.splav.ru/library/sovety/7-poleznyh-uzlov-dlya-turistov-i-ne-tolko/"}
+}
