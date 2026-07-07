@@ -6,6 +6,30 @@
     "With the same end (now on the left), cross it over the other and tuck under again.",
     "Tighten — both ends should exit the knot parallel to the standing parts."
   ],
-  "images": ["images/step-1.webp", "images/step-2.webp", "images/step-3.webp", "images/step-4.webp"],
-  "credit": {"text": "Splav.ru", "url": "https://www.splav.ru/library/sovety/7-poleznyh-uzlov-dlya-turistov-i-ne-tolko/"}
+  "images": [
+    {
+      "src": "images/step-1.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-2.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-3.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-4.webp",
+      "width": 675,
+      "height": 450
+    }
+  ],
+  "credit": {
+    "text": "Splav.ru",
+    "url": "https://www.splav.ru/library/sovety/7-poleznyh-uzlov-dlya-turistov-i-ne-tolko/"
+  }
 }

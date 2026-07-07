@@ -7,11 +7,54 @@
     "Проденьте рабочий конец в получившуюся петлю.",
     "Затяните узел, аккуратно подтягивая обе стороны."
   ],
-  "images": ["images/step-1.webp", "images/step-2.webp", "images/step-3.webp", "images/step-4.webp", "images/step-5.webp"],
-  "credit": {"text": "Splav.ru", "url": "https://www.splav.ru/library/sovety/7-poleznyh-uzlov-dlya-turistov-i-ne-tolko/"},
+  "images": [
+    {
+      "src": "images/step-1.webp",
+      "width": 630,
+      "height": 450
+    },
+    {
+      "src": "images/step-2.webp",
+      "width": 630,
+      "height": 450
+    },
+    {
+      "src": "images/step-3.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-4.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-5.webp",
+      "width": 675,
+      "height": 450
+    }
+  ],
+  "credit": {
+    "text": "Splav.ru",
+    "url": "https://www.splav.ru/library/sovety/7-poleznyh-uzlov-dlya-turistov-i-ne-tolko/"
+  },
   "extra": {
     "label": "Альтернативная схема",
-    "images": ["images/hammock-photo.webp", "images/hammock-schematic.webp"],
-    "credit": {"text": "Gamma Gamakov", "url": "https://www.gamma-gamakov.ru/blogs/blog/uzly-dlja-gamaka"}
+    "images": [
+      {
+        "src": "images/hammock-photo.webp",
+        "width": 990,
+        "height": 370
+      },
+      {
+        "src": "images/hammock-schematic.webp",
+        "width": 700,
+        "height": 186
+      }
+    ],
+    "credit": {
+      "text": "Gamma Gamakov",
+      "url": "https://www.gamma-gamakov.ru/blogs/blog/uzly-dlja-gamaka"
+    }
   }
 }

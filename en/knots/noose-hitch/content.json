@@ -7,6 +7,15 @@
     "Wind the working end around the standing part two or three times.",
     "Pull the wraps snug against the trunk."
   ],
-  "images": ["images/step-1.webp"],
-  "credit": {"text": "Gamma Gamakov", "url": "https://www.gamma-gamakov.ru/blogs/blog/uzly-dlja-gamaka"}
+  "images": [
+    {
+      "src": "images/step-1.webp",
+      "width": 990,
+      "height": 268
+    }
+  ],
+  "credit": {
+    "text": "Gamma Gamakov",
+    "url": "https://www.gamma-gamakov.ru/blogs/blog/uzly-dlja-gamaka"
+  }
 }

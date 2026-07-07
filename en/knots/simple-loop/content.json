@@ -6,6 +6,15 @@
     "Tie an overhand knot with the doubled rope, leaving the loop hanging free at the end.",
     "Tighten evenly and check the loop is the size you need."
   ],
-  "images": ["images/step-1.webp"],
-  "credit": {"text": "Gamma Gamakov", "url": "https://www.gamma-gamakov.ru/blogs/blog/uzly-dlja-gamaka"}
+  "images": [
+    {
+      "src": "images/step-1.webp",
+      "width": 990,
+      "height": 493
+    }
+  ],
+  "credit": {
+    "text": "Gamma Gamakov",
+    "url": "https://www.gamma-gamakov.ru/blogs/blog/uzly-dlja-gamaka"
+  }
 }
