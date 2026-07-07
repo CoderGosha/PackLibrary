@@ -1,0 +1,15 @@
+{
+  "title": "First Aid",
+  "groups": [
+    {
+      "title": "The only correct sequence of first aid actions",
+      "items": [
+        {"slug": "scene-safety", "title": "Scene assessment and safety"},
+        {"slug": "abc-check", "title": "Consciousness, breathing and CPR"},
+        {"slug": "secondary-exam", "title": "Injury check and immobilization"},
+        {"slug": "call-for-help", "title": "Calling for rescue"},
+        {"slug": "monitor-victim", "title": "Monitoring the victim"}
+      ]
+    }
+  ]
+}

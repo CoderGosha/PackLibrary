@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Первая помощь — Библиотека снаряжения</title>
+<style>
+  :root {
+    --bg: #F4F1E8;
+    --surface: #FFFDF7;
+    --accent: #315B3C;
+    --ember: #D36B2B;
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--accent);
+    font-family: -apple-system, Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 16px;
+    background: var(--accent);
+    color: var(--surface);
+  }
+  header h1 {
+    margin: 0;
+    font-size: 20px;
+  }
+  main {
+    padding: 12px;
+  }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    margin-bottom: 10px;
+  }
+  a.item {
+    display: block;
+    background: var(--surface);
+    border-radius: 12px;
+    padding: 14px 16px;
+    color: var(--ember);
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  .group {
+    margin-bottom: 20px;
+  }
+  .group h2 {
+    margin: 0 0 8px;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--accent);
+  }
+  .card {
+    background: var(--surface);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 16px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  .card .body {
+    padding: 12px;
+  }
+  .card h2 {
+    margin: 0 0 6px;
+    font-size: 16px;
+    color: var(--ember);
+  }
+  .card > .body > p {
+    margin: 0 0 10px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .card ol {
+    margin: 0 0 10px;
+    padding-left: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .card ol li {
+    margin-bottom: 4px;
+  }
+  .photo {
+    padding: 0 12px 12px;
+  }
+  .photo img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+  }
+  .steps h3 {
+    margin: 16px 0 8px;
+    padding: 0 12px;
+    font-size: 13px;
+    color: var(--ember);
+  }
+  .steps .row {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    padding: 0 12px 12px;
+  }
+  .steps .row img {
+    height: 150px;
+    width: auto;
+    border-radius: 8px;
+    flex-shrink: 0;
+  }
+  .credit {
+    font-size: 11px;
+    color: #8a8778;
+    margin: 8px 0 0;
+    padding: 0 12px 12px;
+  }
+  .credit a {
+    color: inherit;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Категория: Первая помощь</h1>
+</header>
+<main>
+  <div class="card">
+    <div class="body">
+      <h2>Оценка обстановки и безопасность</h2>
+      <p>Первый шаг перед любыми действиями — убедиться, что помощь не создаст ещё одного пострадавшего.</p>
+      <ol>
+        <li>Осмотритесь и оцените реальные угрозы рядом с пострадавшим — огонь, вода, обрыв, лавинная опасность, удар током, движущийся транспорт.</li>
+        <li>Не бросайтесь на помощь, если опасность ещё активна — сначала устраните её (потушите огонь, отключите источник тока) или дождитесь, пока она пройдёт.</li>
+        <li>Если промедление опасно, а устранить угрозу нельзя — эвакуируйте пострадавшего из опасной зоны немедленно, даже волоком за одежду или ноги, не дожидаясь идеальных условий.</li>
+        <li>Помните золотое правило спасателей: количество пострадавших после начала помощи не должно увеличиться — рисковать собой оправдано, только если это единственный способ спасти другого.</li>
+      </ol>
+    </div>
+    <p class="credit">Фото: <a href="https://www.splav.ru/library/sovety/pervaya-pomoshch-v-pohode-chto-mozhno-delat-a-chto-nelzya/">Splav.ru</a></p>
+  </div>
+</main>
+</body>
+</html>

@@ -1,0 +1,22 @@
+{
+  "title": "Consciousness, breathing and CPR",
+  "description": "Once the scene is safe, check whether the victim is conscious and breathing — that decides whether you start CPR.",
+  "steps": [
+    "Check for consciousness — speak to the victim and gently shake their shoulders.",
+    "If they're conscious, move straight to the secondary injury check.",
+    "If they're unconscious, check breathing first, not pulse — under stress it's easy to mistake your own pulse for the victim's.",
+    "Clear the chest of clothing, gently tilt the head back (one hand on the forehead, two fingers under the chin), then for a few seconds listen with your ear, feel with your cheek, and watch the chest move.",
+    "If they're breathing, roll them into the recovery position and move to the secondary check.",
+    "If there's no breathing and no consciousness, start CPR immediately: 30 chest compressions 5–6 cm deep, alternated with 2 rescue breaths.",
+    "Keep going until signs of life appear or rescuers arrive — outdoors this can take hours rather than minutes, so switch with another person when you can and don't give up early."
+  ],
+  "images": [
+    {"src": "images/recovery-position.webp", "width": 700, "height": 528},
+    {"src": "images/cpr-training.webp", "width": 700, "height": 525},
+    {"src": "images/cpr-closeup.webp", "width": 700, "height": 466}
+  ],
+  "credit": {
+    "text": "Splav.ru",
+    "url": "https://www.splav.ru/library/sovety/pervaya-pomoshch-v-pohode-chto-mozhno-delat-a-chto-nelzya/"
+  }
+}

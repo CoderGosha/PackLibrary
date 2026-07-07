@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>First Aid — Library</title>
+<style>
+  :root {
+    --bg: #F4F1E8;
+    --surface: #FFFDF7;
+    --accent: #315B3C;
+    --ember: #D36B2B;
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--accent);
+    font-family: -apple-system, Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 16px;
+    background: var(--accent);
+    color: var(--surface);
+  }
+  header h1 {
+    margin: 0;
+    font-size: 20px;
+  }
+  main {
+    padding: 12px;
+  }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    margin-bottom: 10px;
+  }
+  a.item {
+    display: block;
+    background: var(--surface);
+    border-radius: 12px;
+    padding: 14px 16px;
+    color: var(--ember);
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  .group {
+    margin-bottom: 20px;
+  }
+  .group h2 {
+    margin: 0 0 8px;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--accent);
+  }
+  .card {
+    background: var(--surface);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 16px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  .card .body {
+    padding: 12px;
+  }
+  .card h2 {
+    margin: 0 0 6px;
+    font-size: 16px;
+    color: var(--ember);
+  }
+  .card > .body > p {
+    margin: 0 0 10px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .card ol {
+    margin: 0 0 10px;
+    padding-left: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .card ol li {
+    margin-bottom: 4px;
+  }
+  .photo {
+    padding: 0 12px 12px;
+  }
+  .photo img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+  }
+  .steps h3 {
+    margin: 16px 0 8px;
+    padding: 0 12px;
+    font-size: 13px;
+    color: var(--ember);
+  }
+  .steps .row {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    padding: 0 12px 12px;
+  }
+  .steps .row img {
+    height: 150px;
+    width: auto;
+    border-radius: 8px;
+    flex-shrink: 0;
+  }
+  .credit {
+    font-size: 11px;
+    color: #8a8778;
+    margin: 8px 0 0;
+    padding: 0 12px 12px;
+  }
+  .credit a {
+    color: inherit;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Category: First Aid</h1>
+</header>
+<main>
+  <div class="card">
+    <div class="body">
+      <h2>Monitoring the victim</h2>
+      <p>Even a stable state can turn for the worse fast — keep watching until rescuers arrive.</p>
+      <ol>
+        <li>Keep continuously monitoring the victim until rescuers actually arrive, even if everything looked stable half an hour ago.</li>
+        <li>Remember that some dangerous conditions — internal bleeding, for example — can't be judged by eye, so keep re-checking breathing and consciousness.</li>
+        <li>Be ready for another decline even after successful CPR — regaining consciousness doesn't guarantee the victim will stay stable.</li>
+        <li>Remember that theory only works alongside practice — in-person first-aid courses (ideally outdoor-focused ones) build the muscle memory that kicks in automatically when there's no time left to recall the instructions under stress.</li>
+      </ol>
+    </div>
+    <p class="credit">Photo: <a href="https://www.splav.ru/library/sovety/pervaya-pomoshch-v-pohode-chto-mozhno-delat-a-chto-nelzya/">Splav.ru</a></p>
+  </div>
+</main>
+</body>
+</html>

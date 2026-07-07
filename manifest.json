@@ -1,6 +1,7 @@
 {
   "categories": [
     {"slug": "knots", "icon": "🪢", "title": {"en": "Knots", "ru": "Узлы"}},
-    {"slug": "campfires", "icon": "🔥", "title": {"en": "Campfires", "ru": "Костры"}}
+    {"slug": "campfires", "icon": "🔥", "title": {"en": "Campfires", "ru": "Костры"}},
+    {"slug": "first-aid", "icon": "🩹", "title": {"en": "First Aid", "ru": "Первая помощь"}}
   ]
 }
