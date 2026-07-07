@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Костры — Библиотека снаряжения</title>
+<style>
+  :root {
+    --bg: #F4F1E8;
+    --surface: #FFFDF7;
+    --accent: #315B3C;
+    --ember: #D36B2B;
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--accent);
+    font-family: -apple-system, Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 16px;
+    background: var(--accent);
+    color: var(--surface);
+  }
+  header h1 {
+    margin: 0;
+    font-size: 20px;
+  }
+  main {
+    padding: 12px;
+  }
+  .card {
+    background: var(--surface);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 16px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  .card .body {
+    padding: 12px;
+  }
+  .card h2 {
+    margin: 0 0 6px;
+    font-size: 16px;
+    color: var(--ember);
+  }
+  .card > .body > p {
+    margin: 0 0 10px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .card ol {
+    margin: 0 0 10px;
+    padding-left: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .card ol li {
+    margin-bottom: 4px;
+  }
+  .photo {
+    padding: 0 12px 12px;
+  }
+  .photo img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+  }
+  .credit {
+    font-size: 11px;
+    color: #8a8778;
+    margin: 8px 0 0;
+    padding: 0 12px 12px;
+  }
+  .credit a {
+    color: inherit;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Категория: Костры</h1>
+</header>
+<main>
+  <div class="card">
+    <div class="body">
+      <h2>Нодья</h2>
+      <p>Костёр выживальщиков, который позволяет переночевать практически без бивачного снаряжения. Классически — два длинных бревна, уложенных друг на друга и удерживаемых по краям кольями, с растопкой между ними, но встречаются варианты из трёх и даже шести брёвен пирамидой. Брёвна медленно и долго прогорают, равномерно отдавая тепло по всей длине — освещения немного, зато тепло ровное и продолжительное. Готовить не очень удобно, но допустимо. Собрать нодью одному и без опыта трудно, но такой костёр не раз спасал жизни в зимнем лесу.</p>
+      <ol>
+        <li>Возьмите брёвна от 20 см в диаметре и около 2 м длиной, снимите с них кору.</li>
+        <li>Сделайте топором насечки вдоль брёвен со стороны, которой они будут соприкасаться друг с другом.</li>
+        <li>Установите по краям ограничительные колья, чтобы брёвна не укатывались во время горения.</li>
+        <li>Уложите растопку и мелкие ветки между нижними брёвнами и подожгите.</li>
+        <li>Положите верхнее бревно так, чтобы оно не прижималось плотно к нижним — зазор нужен для притока воздуха, иначе костёр потухнет.</li>
+        <li>Для ночёвки у нодьи используйте тент или иной отражатель тепла и изоляцию от земли (пенку или лапник), а спальник со стороны костра прикройте плотной тканью, не боящейся искр.</li>
+      </ol>
+    </div>
+    <div class="photo">
+      <img src="images/photo.webp" alt="Нодья" loading="lazy">
+    </div>
+    <p class="credit">Фото: <a href="https://www.splav.ru/library/sovety/koster-v-pohode-kak-razvesti-i-kakie-byvayut-vidy/">Splav.ru</a></p>
+  </div>
+</main>
+</body>
+</html>

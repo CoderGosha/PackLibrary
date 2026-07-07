@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Костры — Библиотека снаряжения</title>
+<style>
+  :root {
+    --bg: #F4F1E8;
+    --surface: #FFFDF7;
+    --accent: #315B3C;
+    --ember: #D36B2B;
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--accent);
+    font-family: -apple-system, Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 16px;
+    background: var(--accent);
+    color: var(--surface);
+  }
+  header h1 {
+    margin: 0;
+    font-size: 20px;
+  }
+  main {
+    padding: 12px;
+  }
+  .card {
+    background: var(--surface);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 16px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  .card .body {
+    padding: 12px;
+  }
+  .card h2 {
+    margin: 0 0 6px;
+    font-size: 16px;
+    color: var(--ember);
+  }
+  .card > .body > p {
+    margin: 0 0 10px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .card ol {
+    margin: 0 0 10px;
+    padding-left: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .card ol li {
+    margin-bottom: 4px;
+  }
+  .photos h3 {
+    margin: 16px 0 8px;
+    padding: 0 12px;
+    font-size: 13px;
+    color: var(--ember);
+  }
+  .photos .row {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    padding: 0 12px 12px;
+  }
+  .photos .row img {
+    height: 150px;
+    width: auto;
+    border-radius: 8px;
+    flex-shrink: 0;
+  }
+  .credit {
+    font-size: 11px;
+    color: #8a8778;
+    margin: 8px 0 0;
+    padding: 0 12px 12px;
+  }
+  .credit a {
+    color: inherit;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Категория: Костры</h1>
+</header>
+<main>
+  <div class="card">
+    <div class="body">
+      <h2>Общая информация</h2>
+      <p>Костёр в походе — это не только тепло и горячая еда, но и настоящий навык, которому нужно учиться заранее. С современным снаряжением (горелка, тёплая одежда, фонарь) без огня обойтись можно, но развести его быстро и без проблем — даже в дождь или мороз — получается только у тех, кто подготовился заранее, а не импровизирует на месте.</p>
+      <ol>
+        <li>Возьмите с собой надёжный источник огня — спички, зажигалку или огниво — и сухую растопку: бересту, вату, пропитанную парафином, сухой спирт. Подготовьте и упакуйте её герметично (например, в zip-пакет) заранее, а не ищите сухой материал на месте.</li>
+        <li>Ищите растопку среди веток, свисающих или надломленных на деревьях, а не на земле — трухлявые стволы, давно лежащие на земле, почти не горят. У хвойных нижние ветки часто сухие, даже если дерево живое.</li>
+        <li>Выберите ровную площадку, которую не затопит дождём. Уберите вокруг сухие листья и траву, обложите место камнями или окопайте рвом, а на снегу — расчистите до земли или застелите ветками, чтобы растопка не намокла.</li>
+        <li>Разжигайте сначала растопку и мелкий хворост, затем постепенно подкладывайте ветки покрупнее. Не заваливайте огонь сразу всеми дровами — без доступа воздуха костёр потухнет.</li>
+        <li>Заготовьте дрова разного калибра заранее, с запасом на 1–2 часа горения — если побежите искать дрова посреди ночи, костёр может прогореть раньше, чем вы вернётесь.</li>
+        <li>Никогда не оставляйте костёр без присмотра. Перед уходом полностью потушите его: разметайте угли по кострищу и залейте водой или засыпьте песком, даже если кажется, что огонь уже потух — тлеющий грунт под кострищем может стать причиной пожара.</li>
+        <li>Открытый огонь разрешён не везде: во многих заповедниках и охраняемых природных территориях костры под запретом, а в лесах действуют правила противопожарного режима. Уточняйте местные ограничения заранее.</li>
+      </ol>
+    </div>
+    <div class="photos">
+      <h3>Фото</h3>
+      <div class="row">
+        <img src="images/tinder-kit.webp" alt="Набор для розжига костра" loading="lazy">
+        <img src="images/fire-steel.webp" alt="Розжиг костра с помощью огнива" loading="lazy">
+        <img src="images/firewood-kit.webp" alt="Набор для добычи дров" loading="lazy">
+      </div>
+    </div>
+    <p class="credit">Фото: <a href="https://www.splav.ru/library/sovety/koster-v-pohode-kak-razvesti-i-kakie-byvayut-vidy/">Splav.ru</a></p>
+  </div>
+</main>
+</body>
+</html>

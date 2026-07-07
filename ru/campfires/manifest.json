@@ -1,0 +1,22 @@
+{
+  "title": "Костры",
+  "groups": [
+    {
+      "title": "Общая информация",
+      "items": [
+        {"slug": "general-info", "title": "Общая информация"}
+      ]
+    },
+    {
+      "title": "Виды костров",
+      "items": [
+        {"slug": "teepee", "title": "Шалаш"},
+        {"slug": "log-cabin", "title": "Колодец"},
+        {"slug": "nodya", "title": "Нодья"},
+        {"slug": "fire-pit", "title": "Костёр в яме (дакотский очаг)"},
+        {"slug": "fireplace", "title": "Камин"},
+        {"slug": "finnish-candle", "title": "Финская свеча"}
+      ]
+    }
+  ]
+}

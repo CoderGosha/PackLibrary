@@ -1,0 +1,22 @@
+{
+  "title": "General information",
+  "description": "A campfire on a trip isn't just warmth and hot food — it's a real skill you need to learn ahead of time. With modern gear (a stove, warm clothing, a headlamp) you can get by without fire, but lighting one quickly and reliably, even in rain or freezing cold, only works for people who prepared in advance instead of improvising on the spot.",
+  "steps": [
+    "Bring a reliable fire source — matches, a lighter, or a fire steel — plus dry tinder: birch bark, cotton wool soaked in paraffin, or a hexamine tablet. Prepare and seal it (e.g. in a zip bag) beforehand rather than searching for dry material on site.",
+    "Look for tinder and kindling on hanging or broken branches still on trees, not on the ground — logs that have been lying on the ground for a while barely burn. Conifers often have dry lower branches even on a living tree.",
+    "Pick a flat spot that won't flood in the rain. Clear away dry leaves and grass, ring the site with stones or dig a trench around it, and on snow either clear down to bare ground or lay a bed of branches so the tinder doesn't get damp.",
+    "Light the tinder and small kindling first, then gradually add larger branches as it catches. Don't pile all the wood on at once — without airflow the fire will die.",
+    "Gather wood of different sizes ahead of time, enough for 1-2 hours of burning — if you have to go looking for more wood in the dark, the fire may burn out before you're back.",
+    "Never leave a fire unattended. Before you leave, put it out completely: spread the embers out and douse them with water or bury them in sand, even if the fire looks already out — smoldering ground underneath a fire pit can still start a wildfire.",
+    "Open fires aren't allowed everywhere — many nature reserves and protected areas ban campfires outright, and forests are subject to fire-safety regulations. Check local rules before you go."
+  ],
+  "images": [
+    {"src": "images/tinder-kit.webp", "width": 700, "height": 500},
+    {"src": "images/fire-steel.webp", "width": 700, "height": 500},
+    {"src": "images/firewood-kit.webp", "width": 700, "height": 500}
+  ],
+  "credit": {
+    "text": "Splav.ru",
+    "url": "https://www.splav.ru/library/sovety/koster-v-pohode-kak-razvesti-i-kakie-byvayut-vidy/"
+  }
+}

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Костры — Библиотека снаряжения</title>
+<style>
+  :root {
+    --bg: #F4F1E8;
+    --surface: #FFFDF7;
+    --accent: #315B3C;
+    --ember: #D36B2B;
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--accent);
+    font-family: -apple-system, Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 16px;
+    background: var(--accent);
+    color: var(--surface);
+  }
+  header h1 {
+    margin: 0;
+    font-size: 20px;
+  }
+  main {
+    padding: 12px;
+  }
+  .card {
+    background: var(--surface);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 16px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  .card .body {
+    padding: 12px;
+  }
+  .card h2 {
+    margin: 0 0 6px;
+    font-size: 16px;
+    color: var(--ember);
+  }
+  .card > .body > p {
+    margin: 0 0 10px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .card ol {
+    margin: 0 0 10px;
+    padding-left: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .card ol li {
+    margin-bottom: 4px;
+  }
+  .photo {
+    padding: 0 12px 12px;
+  }
+  .photo img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+  }
+  .credit {
+    font-size: 11px;
+    color: #8a8778;
+    margin: 8px 0 0;
+    padding: 0 12px 12px;
+  }
+  .credit a {
+    color: inherit;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Категория: Костры</h1>
+</header>
+<main>
+  <div class="card">
+    <div class="body">
+      <h2>Камин</h2>
+      <p>Костёр с «автоматической» подачей дров на сжигание — позволяет готовить и греться одновременно, не подкладывая дрова вручную. Любим охотниками и рыбаками за долгое и, при правильной сборке, многоразовое горение. Обычно устраивается вместе с отражателем тепла — наклонной стенкой из тента, спасательного одеяла или веток и лапника, как у нодьи.</p>
+      <ol>
+        <li>Установите две параллельные жерди под углом от костра — это будет направляющая для брёвен.</li>
+        <li>На земле уложите два параллельных бревна-основания и разведите между ними костёр.</li>
+        <li>Поверх направляющих жердей уложите брёвнышки от меньшего к большему, чтобы получилась конструкция вроде спинки стула.</li>
+        <li>Воткните ограничительные колья по бокам, чтобы брёвна не укатывались.</li>
+        <li>По мере прогорания нижних дров брёвна со стороны «спинки» будут скатываться вниз, автоматически подпитывая огонь.</li>
+        <li>Установите отражатель тепла позади костра и ложитесь спать не ближе чем в полуметре от него, следя, чтобы под навесом не скапливался дым.</li>
+      </ol>
+    </div>
+    <div class="photo">
+      <img src="images/photo.webp" alt="Камин" loading="lazy">
+    </div>
+    <p class="credit">Фото: <a href="https://www.splav.ru/library/sovety/koster-v-pohode-kak-razvesti-i-kakie-byvayut-vidy/">Splav.ru</a></p>
+  </div>
+</main>
+</body>
+</html>

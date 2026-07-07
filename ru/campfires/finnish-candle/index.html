@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Костры — Библиотека снаряжения</title>
+<style>
+  :root {
+    --bg: #F4F1E8;
+    --surface: #FFFDF7;
+    --accent: #315B3C;
+    --ember: #D36B2B;
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--accent);
+    font-family: -apple-system, Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 16px;
+    background: var(--accent);
+    color: var(--surface);
+  }
+  header h1 {
+    margin: 0;
+    font-size: 20px;
+  }
+  main {
+    padding: 12px;
+  }
+  .card {
+    background: var(--surface);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 16px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  .card .body {
+    padding: 12px;
+  }
+  .card h2 {
+    margin: 0 0 6px;
+    font-size: 16px;
+    color: var(--ember);
+  }
+  .card > .body > p {
+    margin: 0 0 10px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .card ol {
+    margin: 0 0 10px;
+    padding-left: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .card ol li {
+    margin-bottom: 4px;
+  }
+  .photo {
+    padding: 0 12px 12px;
+  }
+  .photo img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+  }
+  .credit {
+    font-size: 11px;
+    color: #8a8778;
+    margin: 8px 0 0;
+    padding: 0 12px 12px;
+  }
+  .credit a {
+    color: inherit;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Категория: Костры</h1>
+</header>
+<main>
+  <div class="card">
+    <div class="body">
+      <h2>Финская свеча</h2>
+      <p>Также известна как таёжная свеча. Удобна для готовки, но заметно хуже согревает и освещает территорию по сравнению с другими типами костров. Простой вариант сборки требует бревна от 20 см в диаметре и проволоки: бревно раскалывают на 4–8 частей, обстругивают внутреннюю сторону, собирают обратно и стягивают проволокой по кругу, оставляя небольшие зазоры для воздуха. В классическом исполнении вместо расколки делают пропилы на 70–80% длины бревна. В зависимости от размера такая свеча горит от получаса до четырёх часов.</p>
+      <ol>
+        <li>Возьмите сухое бревно от 20 см в диаметре.</li>
+        <li>Расколите его на 4–8 частей (или сделайте пропилы бензопилой/пилой на 70–80% длины бревна, не раскалывая до конца).</li>
+        <li>Обстругайте внутренние стороны частей, чтобы освободить место для растопки.</li>
+        <li>Соберите бревно обратно, положив растопку в центр, и стяните проволокой по кругу, оставив небольшие зазоры для притока воздуха.</li>
+        <li>Подожгите растопку в центре сверху. Для удобства готовки прикопайте свечу или используйте ровные спилы, чтобы посуда устойчиво держалась сверху.</li>
+      </ol>
+    </div>
+    <div class="photo">
+      <img src="images/photo.webp" alt="Финская свеча" loading="lazy">
+    </div>
+    <p class="credit">Фото: <a href="https://www.splav.ru/library/sovety/koster-v-pohode-kak-razvesti-i-kakie-byvayut-vidy/">Splav.ru</a></p>
+  </div>
+</main>
+</body>
+</html>

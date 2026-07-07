@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Campfires — Gear Library</title>
+<style>
+  :root {
+    --bg: #F4F1E8;
+    --surface: #FFFDF7;
+    --accent: #315B3C;
+    --ember: #D36B2B;
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--accent);
+    font-family: -apple-system, Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 16px;
+    background: var(--accent);
+    color: var(--surface);
+  }
+  header h1 {
+    margin: 0;
+    font-size: 20px;
+  }
+  main {
+    padding: 12px;
+  }
+  .card {
+    background: var(--surface);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 16px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  .card .body {
+    padding: 12px;
+  }
+  .card h2 {
+    margin: 0 0 6px;
+    font-size: 16px;
+    color: var(--ember);
+  }
+  .card > .body > p {
+    margin: 0 0 10px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .card ol {
+    margin: 0 0 10px;
+    padding-left: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .card ol li {
+    margin-bottom: 4px;
+  }
+  .photo {
+    padding: 0 12px 12px;
+  }
+  .photo img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+  }
+  .credit {
+    font-size: 11px;
+    color: #8a8778;
+    margin: 8px 0 0;
+    padding: 0 12px 12px;
+  }
+  .credit a {
+    color: inherit;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Category: Campfires</h1>
+</header>
+<main>
+  <div class="card">
+    <div class="body">
+      <h2>Teepee fire</h2>
+      <p>The best-known fire lay: tinder and small kindling surrounded by larger sticks leaned together into a cone, like a teepee. It builds up faster than any other lay, but without practice it can be slow to catch or burn out quickly. Good for warmth, cooking, and a bit of light, but it needs frequent feeding — left unattended it rarely lasts more than three hours.</p>
+      <ol>
+        <li>Pile tinder and fine kindling in the center of the site.</li>
+        <li>Lean larger sticks against each other around the tinder to form a cone.</li>
+        <li>Light the tinder at the base from inside the cone.</li>
+        <li>As it catches, add thicker sticks while keeping the cone shape for good airflow.</li>
+      </ol>
+    </div>
+    <div class="photo">
+      <img src="images/photo.webp" alt="Teepee fire" loading="lazy">
+    </div>
+    <p class="credit">Photo: <a href="https://www.splav.ru/library/sovety/koster-v-pohode-kak-razvesti-i-kakie-byvayut-vidy/">Splav.ru</a></p>
+  </div>
+</main>
+</body>
+</html>

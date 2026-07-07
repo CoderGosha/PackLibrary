@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Campfires — Gear Library</title>
+<style>
+  :root {
+    --bg: #F4F1E8;
+    --surface: #FFFDF7;
+    --accent: #315B3C;
+    --ember: #D36B2B;
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--accent);
+    font-family: -apple-system, Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 16px;
+    background: var(--accent);
+    color: var(--surface);
+  }
+  header h1 {
+    margin: 0;
+    font-size: 20px;
+  }
+  main {
+    padding: 12px;
+  }
+  .card {
+    background: var(--surface);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 16px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  .card .body {
+    padding: 12px;
+  }
+  .card h2 {
+    margin: 0 0 6px;
+    font-size: 16px;
+    color: var(--ember);
+  }
+  .card > .body > p {
+    margin: 0 0 10px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .card ol {
+    margin: 0 0 10px;
+    padding-left: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .card ol li {
+    margin-bottom: 4px;
+  }
+  .photo {
+    padding: 0 12px 12px;
+  }
+  .photo img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+  }
+  .credit {
+    font-size: 11px;
+    color: #8a8778;
+    margin: 8px 0 0;
+    padding: 0 12px 12px;
+  }
+  .credit a {
+    color: inherit;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Category: Campfires</h1>
+</header>
+<main>
+  <div class="card">
+    <div class="body">
+      <h2>Fire pit (Dakota fire hole)</h2>
+      <p>Essentially a stove dug into the ground with a fire burning inside it, also known as a Dakota fire hole or Polynesian fire pit. Very convenient for cooking, almost invisible from a distance, and doesn&#x27;t radiate heat outward, so you can dry gear right next to it without risking scorching it. The main downside is it gives almost no light, and you can&#x27;t dig one without a shovel.</p>
+      <ol>
+        <li>Pick a spot on slightly raised ground and dig a hole for the fire itself, sized so the fire fits entirely inside it.</li>
+        <li>Dig a second, narrower tunnel into it for airflow — its diameter should be at least a third of the main hole&#x27;s diameter.</li>
+        <li>Light a fire inside the main hole using a normal lay (a teepee lay works well).</li>
+        <li>When cooking, make sure your pot doesn&#x27;t completely block the top opening — otherwise the draft is lost and the fire starts to die out.</li>
+      </ol>
+    </div>
+    <div class="photo">
+      <img src="images/photo.webp" alt="Fire pit (Dakota fire hole)" loading="lazy">
+    </div>
+    <p class="credit">Photo: <a href="https://www.splav.ru/library/sovety/koster-v-pohode-kak-razvesti-i-kakie-byvayut-vidy/">Splav.ru</a></p>
+  </div>
+</main>
+</body>
+</html>

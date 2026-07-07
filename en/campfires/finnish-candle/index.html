@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Campfires — Gear Library</title>
+<style>
+  :root {
+    --bg: #F4F1E8;
+    --surface: #FFFDF7;
+    --accent: #315B3C;
+    --ember: #D36B2B;
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--accent);
+    font-family: -apple-system, Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 16px;
+    background: var(--accent);
+    color: var(--surface);
+  }
+  header h1 {
+    margin: 0;
+    font-size: 20px;
+  }
+  main {
+    padding: 12px;
+  }
+  .card {
+    background: var(--surface);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 16px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  .card .body {
+    padding: 12px;
+  }
+  .card h2 {
+    margin: 0 0 6px;
+    font-size: 16px;
+    color: var(--ember);
+  }
+  .card > .body > p {
+    margin: 0 0 10px;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .card ol {
+    margin: 0 0 10px;
+    padding-left: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .card ol li {
+    margin-bottom: 4px;
+  }
+  .photo {
+    padding: 0 12px 12px;
+  }
+  .photo img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+  }
+  .credit {
+    font-size: 11px;
+    color: #8a8778;
+    margin: 8px 0 0;
+    padding: 0 12px 12px;
+  }
+  .credit a {
+    color: inherit;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Category: Campfires</h1>
+</header>
+<main>
+  <div class="card">
+    <div class="body">
+      <h2>Finnish candle</h2>
+      <p>Also known as a taiga candle. Convenient for cooking, but noticeably worse than other lays at warming or lighting the area around it. The simple version needs a log at least 20 cm in diameter and some wire: split the log into 4-8 wedges, plane the inner faces, reassemble it, and cinch it back together with wire, leaving small gaps for airflow. The classic version cuts 70-80% of the way through the log instead of splitting it fully. Depending on size, a candle like this burns anywhere from half an hour to four hours.</p>
+      <ol>
+        <li>Take a dry log at least 20 cm in diameter.</li>
+        <li>Split it into 4-8 wedges (or saw down 70-80% of the log&#x27;s length without splitting it all the way through).</li>
+        <li>Plane or shave the inner faces of the wedges to make room for tinder.</li>
+        <li>Reassemble the log around tinder placed in the center, and cinch it together with wire around the outside, leaving small gaps for airflow.</li>
+        <li>Light the tinder from the top center. For easier cooking, dig the candle in slightly or use a flat-cut top so a pot sits securely on top.</li>
+      </ol>
+    </div>
+    <div class="photo">
+      <img src="images/photo.webp" alt="Finnish candle" loading="lazy">
+    </div>
+    <p class="credit">Photo: <a href="https://www.splav.ru/library/sovety/koster-v-pohode-kak-razvesti-i-kakie-byvayut-vidy/">Splav.ru</a></p>
+  </div>
+</main>
+</body>
+</html>

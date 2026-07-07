@@ -1,0 +1,19 @@
+{
+  "title": "Nodya",
+  "description": "A survivalist's fire that lets you spend the night with almost no camping gear at all. Classically it's two long logs stacked on top of each other, held in place by stakes at the ends, with tinder in between — though variants with three or even six logs stacked in a pyramid exist too. The logs burn slowly and evenly along their whole length, giving little light but steady, long-lasting warmth. Cooking on it isn't very convenient, but it's doable. Building a nodya alone and without experience is hard, but this fire has saved lives in the winter forest more than once.",
+  "steps": [
+    "Take logs at least 20 cm in diameter and about 2 m long, and strip off the bark.",
+    "Score notches along each log with an axe, on the side that will face the other log.",
+    "Drive stakes into the ground at both ends to keep the logs from rolling as they burn.",
+    "Lay tinder and small kindling between the bottom logs and light it.",
+    "Place the top log so it doesn't press tightly against the bottom ones — the gap lets air in; without it the fire will go out.",
+    "For sleeping next to a nodya, use a tarp or another heat reflector plus insulation from the ground (a sleeping pad or spruce boughs), and cover the sleeping bag on the fire side with a heavy natural-fiber fabric that won't catch sparks."
+  ],
+  "images": [
+    {"src": "images/photo.webp", "width": 700, "height": 500}
+  ],
+  "credit": {
+    "text": "Splav.ru",
+    "url": "https://www.splav.ru/library/sovety/koster-v-pohode-kak-razvesti-i-kakie-byvayut-vidy/"
+  }
+}

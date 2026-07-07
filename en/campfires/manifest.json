@@ -1,0 +1,22 @@
+{
+  "title": "Campfires",
+  "groups": [
+    {
+      "title": "General information",
+      "items": [
+        {"slug": "general-info", "title": "General information"}
+      ]
+    },
+    {
+      "title": "Types of campfires",
+      "items": [
+        {"slug": "teepee", "title": "Teepee fire"},
+        {"slug": "log-cabin", "title": "Log cabin fire"},
+        {"slug": "nodya", "title": "Nodya"},
+        {"slug": "fire-pit", "title": "Fire pit (Dakota fire hole)"},
+        {"slug": "fireplace", "title": "Reflector fire (fireplace lay)"},
+        {"slug": "finnish-candle", "title": "Finnish candle"}
+      ]
+    }
+  ]
+}

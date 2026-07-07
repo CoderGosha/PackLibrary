@@ -1,5 +1,6 @@
 {
   "categories": [
-    {"slug": "knots", "icon": "🪢", "title": {"en": "Knots", "ru": "Узлы"}}
+    {"slug": "knots", "icon": "🪢", "title": {"en": "Knots", "ru": "Узлы"}},
+    {"slug": "campfires", "icon": "🔥", "title": {"en": "Campfires", "ru": "Костры"}}
   ]
 }
