@@ -11,12 +11,20 @@
     "Open fires aren't allowed everywhere — many nature reserves and protected areas ban campfires outright, and forests are subject to fire-safety regulations. Check local rules before you go."
   ],
   "images": [
-    {"src": "images/tinder-kit.webp", "width": 700, "height": 500},
-    {"src": "images/fire-steel.webp", "width": 700, "height": 500},
-    {"src": "images/firewood-kit.webp", "width": 700, "height": 500}
-  ],
-  "credit": {
-    "text": "Splav.ru",
-    "url": "https://www.splav.ru/library/sovety/koster-v-pohode-kak-razvesti-i-kakie-byvayut-vidy/"
-  }
+    {
+      "src": "images/tinder-kit.webp",
+      "width": 700,
+      "height": 500
+    },
+    {
+      "src": "images/fire-steel.webp",
+      "width": 700,
+      "height": 500
+    },
+    {
+      "src": "images/firewood-kit.webp",
+      "width": 700,
+      "height": 500
+    }
+  ]
 }

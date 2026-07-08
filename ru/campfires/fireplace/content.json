@@ -10,10 +10,10 @@
     "Установите отражатель тепла позади костра и ложитесь спать не ближе чем в полуметре от него, следя, чтобы под навесом не скапливался дым."
   ],
   "images": [
-    {"src": "images/photo.webp", "width": 700, "height": 500}
-  ],
-  "credit": {
-    "text": "Splav.ru",
-    "url": "https://www.splav.ru/library/sovety/koster-v-pohode-kak-razvesti-i-kakie-byvayut-vidy/"
-  }
+    {
+      "src": "images/photo.webp",
+      "width": 700,
+      "height": 500
+    }
+  ]
 }

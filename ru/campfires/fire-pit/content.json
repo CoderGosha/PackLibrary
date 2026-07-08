@@ -8,10 +8,10 @@
     "При готовке следите, чтобы посуда не перекрывала полностью выходное отверстие — иначе пропадёт тяга и костёр начнёт гаснуть."
   ],
   "images": [
-    {"src": "images/photo.webp", "width": 700, "height": 500}
-  ],
-  "credit": {
-    "text": "Splav.ru",
-    "url": "https://www.splav.ru/library/sovety/koster-v-pohode-kak-razvesti-i-kakie-byvayut-vidy/"
-  }
+    {
+      "src": "images/photo.webp",
+      "width": 700,
+      "height": 500
+    }
+  ]
 }

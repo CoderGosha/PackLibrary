@@ -9,10 +9,10 @@
     "Light the tinder from the top center. For easier cooking, dig the candle in slightly or use a flat-cut top so a pot sits securely on top."
   ],
   "images": [
-    {"src": "images/photo.webp", "width": 700, "height": 500}
-  ],
-  "credit": {
-    "text": "Splav.ru",
-    "url": "https://www.splav.ru/library/sovety/koster-v-pohode-kak-razvesti-i-kakie-byvayut-vidy/"
-  }
+    {
+      "src": "images/photo.webp",
+      "width": 700,
+      "height": 500
+    }
+  ]
 }

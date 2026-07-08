@@ -10,10 +10,10 @@
     "For sleeping next to a nodya, use a tarp or another heat reflector plus insulation from the ground (a sleeping pad or spruce boughs), and cover the sleeping bag on the fire side with a heavy natural-fiber fabric that won't catch sparks."
   ],
   "images": [
-    {"src": "images/photo.webp", "width": 700, "height": 500}
-  ],
-  "credit": {
-    "text": "Splav.ru",
-    "url": "https://www.splav.ru/library/sovety/koster-v-pohode-kak-razvesti-i-kakie-byvayut-vidy/"
-  }
+    {
+      "src": "images/photo.webp",
+      "width": 700,
+      "height": 500
+    }
+  ]
 }

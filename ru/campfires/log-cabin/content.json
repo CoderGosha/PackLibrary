@@ -8,10 +8,10 @@
     "Подожгите растопку в центре конструкции — стенки колодца обеспечат тягу и равномерное горение."
   ],
   "images": [
-    {"src": "images/photo.webp", "width": 700, "height": 500}
-  ],
-  "credit": {
-    "text": "Splav.ru",
-    "url": "https://www.splav.ru/library/sovety/koster-v-pohode-kak-razvesti-i-kakie-byvayut-vidy/"
-  }
+    {
+      "src": "images/photo.webp",
+      "width": 700,
+      "height": 500
+    }
+  ]
 }

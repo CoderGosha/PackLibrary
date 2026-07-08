@@ -11,12 +11,10 @@
     "Keep going until signs of life appear or rescuers arrive — outdoors this can take hours rather than minutes, so switch with another person when you can and don't give up early."
   ],
   "images": [
-    {"src": "images/recovery-position.webp", "width": 700, "height": 528},
-    {"src": "images/cpr-training.webp", "width": 700, "height": 525},
-    {"src": "images/cpr-closeup.webp", "width": 700, "height": 466}
-  ],
-  "credit": {
-    "text": "Splav.ru",
-    "url": "https://www.splav.ru/library/sovety/pervaya-pomoshch-v-pohode-chto-mozhno-delat-a-chto-nelzya/"
-  }
+    {
+      "src": "images/recovery-position.webp",
+      "width": 700,
+      "height": 528
+    }
+  ]
 }

@@ -9,11 +9,10 @@
     "If a fracture or spinal injury is suspected, immobilize the area with whatever you have (a backpack, a sleeping pad, a splint) before moving the victim at all."
   ],
   "images": [
-    {"src": "images/immobilization.webp", "width": 700, "height": 466},
-    {"src": "images/injury-check.webp", "width": 700, "height": 466}
-  ],
-  "credit": {
-    "text": "Splav.ru",
-    "url": "https://www.splav.ru/library/sovety/pervaya-pomoshch-v-pohode-chto-mozhno-delat-a-chto-nelzya/"
-  }
+    {
+      "src": "images/immobilization.webp",
+      "width": 700,
+      "height": 466
+    }
+  ]
 }
