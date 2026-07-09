@@ -1,0 +1,20 @@
+{
+  "title": "Fogata tipi",
+  "description": "La disposición de fuego más conocida: yesca y ramas finas rodeadas de palos más grandes apoyados entre sí formando un cono, como un tipi. Prende más rápido que cualquier otra disposición, pero sin práctica puede tardar en encender o consumirse rápidamente. Buena para calentarse, cocinar y algo de luz, pero necesita alimentación frecuente — sin vigilancia rara vez dura más de tres horas.",
+  "steps": [
+    "Amontona yesca y ramas finas en el centro del sitio.",
+    "Apoya palos más grandes unos contra otros alrededor de la yesca para formar un cono.",
+    "Enciende la yesca en la base desde dentro del cono.",
+    "A medida que prende, añade palos más gruesos manteniendo la forma de cono para una buena circulación de aire."
+  ],
+  "images": [
+    {
+      "src": "images/photo.webp",
+      "width": 700,
+      "height": 500
+    }
+  ],
+  "credit": {
+    "text": ""
+  }
+}

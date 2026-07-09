@@ -1,0 +1,15 @@
+{
+  "title": "Primeros auxilios",
+  "groups": [
+    {
+      "title": "La única secuencia correcta de acciones de primeros auxilios",
+      "items": [
+        {"slug": "scene-safety", "title": "Evaluación de la escena y seguridad"},
+        {"slug": "abc-check", "title": "Consciencia, respiración y RCP"},
+        {"slug": "secondary-exam", "title": "Revisión de lesiones e inmovilización"},
+        {"slug": "call-for-help", "title": "Pedir ayuda"},
+        {"slug": "monitor-victim", "title": "Monitorización de la víctima"}
+      ]
+    }
+  ]
+}

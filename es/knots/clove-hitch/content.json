@@ -1,0 +1,34 @@
+{
+  "title": "Ballestrinque",
+  "description": "Un nudo marinero para tensar una cuerda contra un poste: una lona, un viento, o un tendedero. Fácil de ajustar en longitud incluso después de atado. En cuerda fina (1-3 mm) puede ser difícil de deshacer.",
+  "steps": [
+    "Envuelve la cuerda alrededor del poste, cruzando el chicote sobre el firme.",
+    "Da una segunda vuelta alrededor del poste junto a la primera.",
+    "Pasa el chicote por debajo de la última vuelta y aprieta."
+  ],
+  "images": [
+    {
+      "src": "images/step-1.webp",
+      "width": 630,
+      "height": 450
+    },
+    {
+      "src": "images/step-2.webp",
+      "width": 630,
+      "height": 450
+    },
+    {
+      "src": "images/step-3.webp",
+      "width": 630,
+      "height": 450
+    },
+    {
+      "src": "images/step-4.webp",
+      "width": 900,
+      "height": 450
+    }
+  ],
+  "credit": {
+    "text": ""
+  }
+}

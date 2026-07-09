@@ -1,0 +1,20 @@
+{
+  "title": "Fogata en cabaña de troncos",
+  "description": "Parece un pequeño entramado de troncos: yesca o una pequeña fogata tipi en el centro, rodeada por todos lados por troncos de longitud más o menos igual — dos troncos colocados en paralelo por \"piso\", el siguiente piso en ángulo recto respecto al de abajo. Los huecos entre los troncos actúan como una chimenea, dando buen tiro y una combustión constante. Según el tamaño funciona bien para cocinar, calentarse e iluminar, y los troncos de 7 cm de diámetro o más gruesos arden mucho tiempo y dejan bastantes brasas que siguen irradiando calor. La desventaja es que necesita leña elegida con más cuidado, un lugar plano y más tiempo para construirla.",
+  "steps": [
+    "Coloca yesca o una pequeña fogata tipi en el centro del sitio.",
+    "Elige troncos de longitud similar y coloca el primer \"piso\": dos troncos en paralelo a cada lado de la yesca.",
+    "Coloca el siguiente piso en ángulo recto respecto al de abajo, y sigue subiendo hasta la altura que quieras (4-5 pisos bastan para sentarse alrededor).",
+    "Enciende la yesca en el centro — las paredes de la cabaña proporcionan tiro y una combustión constante."
+  ],
+  "images": [
+    {
+      "src": "images/photo.webp",
+      "width": 700,
+      "height": 500
+    }
+  ],
+  "credit": {
+    "text": ""
+  }
+}

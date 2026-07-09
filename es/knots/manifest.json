@@ -1,0 +1,40 @@
+{
+  "title": "Nudos",
+  "groups": [
+    {
+      "title": "Nudos de unión — para alargar cuerda o crear un lazo",
+      "items": [
+        {"slug": "square-knot", "title": "Nudo llano (nudo de rizo)"},
+        {"slug": "grapevine", "title": "Nudo de pescador doble (grapevine)"}
+      ]
+    },
+    {
+      "title": "Vueltas",
+      "items": [
+        {"slug": "girth-hitch", "title": "Nudo de alondra (vuelta de braza)"},
+        {"slug": "clove-hitch", "title": "Ballestrinque"}
+      ]
+    },
+    {
+      "title": "Nudos de lazo",
+      "items": [
+        {"slug": "bowline", "title": "As de guía"},
+        {"slug": "figure-eight", "title": "Nudo en ocho"}
+      ]
+    },
+    {
+      "title": "Nudo especial",
+      "items": [
+        {"slug": "munter-hitch", "title": "Nudo dinámico (UIAA / nudo italiano)"}
+      ]
+    },
+    {
+      "title": "Nudos para hamaca",
+      "items": [
+        {"slug": "simple-loop", "title": "Nudo de lazo simple"},
+        {"slug": "figure-eight", "title": "Nudo en ocho"},
+        {"slug": "noose-hitch", "title": "Nudo corredizo"}
+      ]
+    }
+  ]
+}

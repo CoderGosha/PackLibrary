@@ -1,0 +1,22 @@
+{
+  "title": "Nodya",
+  "description": "Un fuego de supervivencia que permite pasar la noche con casi nada de equipo de campamento. Clásicamente son dos troncos largos apilados uno sobre otro, sujetos por estacas en los extremos, con yesca en medio, aunque también existen variantes con tres o incluso seis troncos apilados en pirámide. Los troncos arden despacio y de forma uniforme en toda su longitud, dando poca luz pero calor constante y duradero. Cocinar en ella no es muy cómodo, pero es posible. Construir una nodya solo y sin experiencia es difícil, pero este fuego ha salvado vidas más de una vez en el bosque invernal.",
+  "steps": [
+    "Toma troncos de al menos 20 cm de diámetro y unos 2 m de largo, y quítales la corteza.",
+    "Haz muescas a lo largo de cada tronco con un hacha, en el lado que quedará frente al otro tronco.",
+    "Clava estacas en el suelo en ambos extremos para evitar que los troncos rueden mientras arden.",
+    "Coloca yesca y ramas finas entre los troncos inferiores y enciéndela.",
+    "Coloca el tronco superior de modo que no presione con fuerza contra los inferiores — el hueco deja entrar aire; sin él el fuego se apagará.",
+    "Para dormir junto a una nodya, usa una lona u otro reflector de calor más aislamiento del suelo (una esterilla o ramas de abeto), y cubre el saco de dormir en el lado del fuego con una tela gruesa de fibra natural que no prenda con las chispas."
+  ],
+  "images": [
+    {
+      "src": "images/photo.webp",
+      "width": 700,
+      "height": 500
+    }
+  ],
+  "credit": {
+    "text": ""
+  }
+}

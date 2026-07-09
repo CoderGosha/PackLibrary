@@ -1,0 +1,29 @@
+{
+  "title": "Nudo dinámico (UIAA / nudo italiano)",
+  "description": "Un nudo de fricción para asegurar o rapelar, atado a través de un mosquetón — sustituye a un dispositivo de aseguramiento. Funciona en ambas direcciones y se libera fácilmente con un giro de muñeca.",
+  "steps": [
+    "Dobla la cuerda formando un lazo.",
+    "Engancha el lazo en un mosquetón de modo que ambos lados de la cuerda queden uno junto al otro.",
+    "Gira el lazo sobre el eje del mosquetón — el nudo está listo; gíralo de nuevo para invertir la dirección de frenado."
+  ],
+  "images": [
+    {
+      "src": "images/step-1.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-2.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-3.webp",
+      "width": 675,
+      "height": 450
+    }
+  ],
+  "credit": {
+    "text": ""
+  }
+}

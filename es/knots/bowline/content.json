@@ -1,0 +1,41 @@
+{
+  "title": "As de guía",
+  "description": "Un lazo fijo en el extremo de una cuerda. A diferencia del nudo en ocho, sigue siendo fácil de deshacer incluso después de haber soportado una carga fuerte. Se usa para amarrar a un árbol, un anclaje, o como lazo de rescate. Siempre necesita un nudo de tope en el chicote.",
+  "steps": [
+    "Haz un lazo pequeño en la cuerda, alejado del extremo.",
+    "Pasa el chicote hacia arriba a través de ese lazo, por debajo.",
+    "Envuelve el chicote alrededor del firme y llévalo de vuelta al lazo.",
+    "Vuelve a pasar el chicote hacia abajo por el mismo lazo.",
+    "Aprieta y termina con un nudo de tope en el chicote."
+  ],
+  "images": [
+    {
+      "src": "images/step-1.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-2.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-3.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-4.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-5.webp",
+      "width": 675,
+      "height": 450
+    }
+  ],
+  "credit": {
+    "text": ""
+  }
+}

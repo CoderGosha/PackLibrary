@@ -1,0 +1,22 @@
+{
+  "title": "Fogatas",
+  "groups": [
+    {
+      "title": "Información general",
+      "items": [
+        {"slug": "general-info", "title": "Información general"}
+      ]
+    },
+    {
+      "title": "Tipos de fogatas",
+      "items": [
+        {"slug": "teepee", "title": "Fogata tipi"},
+        {"slug": "log-cabin", "title": "Fogata en cabaña de troncos"},
+        {"slug": "nodya", "title": "Nodya"},
+        {"slug": "fire-pit", "title": "Fogata en pozo (agujero de fuego dakota)"},
+        {"slug": "fireplace", "title": "Fogata reflectora (fireplace)"},
+        {"slug": "finnish-candle", "title": "Vela finlandesa"}
+      ]
+    }
+  ]
+}

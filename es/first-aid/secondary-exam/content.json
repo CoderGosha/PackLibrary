@@ -1,0 +1,21 @@
+{
+  "title": "Revisión de lesiones e inmovilización",
+  "description": "Una vez confirmada o restablecida la respiración, busca lesiones y detén las hemorragias — no es momento para el pudor.",
+  "steps": [
+    "Revisa todo el cuerpo en busca de hemorragias y lesiones, incluidas zonas ocultas — ingle, axilas, abdomen, bajo la ropa.",
+    "Si la víctima está consciente, pide permiso para examinarla, pero no te lo saltes por cortesía — el pudor puede costar una vida.",
+    "Con una hemorragia arterial grave estás contando segundos — el daño permanente puede empezar en tan solo 10–15 segundos, así que corta o retira la ropa sobre la herida de inmediato.",
+    "Detén la hemorragia con un vendaje compresivo, un torniquete o uno improvisado — aprende esto en un curso práctico de antemano, no leyendo instrucciones bajo estrés.",
+    "Si sospechas una fractura o una lesión en la columna, inmoviliza la zona con lo que tengas a mano (una mochila, una esterilla, una férula) antes de mover a la víctima de ningún modo."
+  ],
+  "images": [
+    {
+      "src": "images/immobilization.webp",
+      "width": 700,
+      "height": 466
+    }
+  ],
+  "credit": {
+    "text": ""
+  }
+}

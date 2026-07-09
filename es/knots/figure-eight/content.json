@@ -1,0 +1,58 @@
+{
+  "title": "Nudo en ocho",
+  "description": "Un nudo simple y fiable. Se usa como nudo de seguridad y de tope para evitar que la cuerda se salga de un mosquetón o hebilla. Su principal desventaja: se aprieta bajo carga, por lo que es más difícil de deshacer tras una caída fuerte que el as de guía.",
+  "steps": [
+    "Dobla la cuerda y forma un lazo en el chicote.",
+    "Envuelve el chicote alrededor del firme de la cuerda.",
+    "Pasa el chicote de vuelta por el lazo.",
+    "Aprieta el nudo tirando de ambos extremos con firmeza."
+  ],
+  "images": [
+    {
+      "src": "images/step-1.webp",
+      "width": 630,
+      "height": 450
+    },
+    {
+      "src": "images/step-2.webp",
+      "width": 630,
+      "height": 450
+    },
+    {
+      "src": "images/step-3.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-4.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-5.webp",
+      "width": 675,
+      "height": 450
+    }
+  ],
+  "extra": {
+    "label": "Diagrama alternativo",
+    "images": [
+      {
+        "src": "images/hammock-photo.webp",
+        "width": 990,
+        "height": 370
+      },
+      {
+        "src": "images/hammock-schematic.webp",
+        "width": 700,
+        "height": 186
+      }
+    ],
+    "credit": {
+      "text": ""
+    }
+  },
+  "credit": {
+    "text": ""
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Nudo corredizo",
+  "description": "Una vuelta simple para atar una cuerda directamente al tronco de un árbol o a una rama gruesa sin usar mosquetón — una forma habitual de montar una hamaca o la línea principal de una lona. La cuerda rodea el tronco y luego el chicote se enrolla varias veces alrededor del firme antes de apretarse. Agarra bien bajo carga pero sigue siendo fácil de soltar después.",
+  "steps": [
+    "Pasa la cuerda alrededor del tronco o la rama.",
+    "Cruza el chicote sobre el firme.",
+    "Enrolla el chicote alrededor del firme dos o tres vueltas.",
+    "Aprieta las vueltas contra el tronco."
+  ],
+  "images": [
+    {
+      "src": "images/step-1.webp",
+      "width": 990,
+      "height": 268
+    }
+  ],
+  "credit": {
+    "text": ""
+  }
+}

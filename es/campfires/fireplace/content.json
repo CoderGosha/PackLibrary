@@ -1,0 +1,22 @@
+{
+  "title": "Fogata reflectora (fireplace)",
+  "description": "Un fuego con alimentación \"automática\" de leña: te permite cocinar y mantenerte caliente al mismo tiempo sin tener que alimentarlo a mano. Popular entre cazadores y pescadores por arder mucho tiempo y, si se construye bien, ser reutilizable. Suele combinarse con un reflector de calor — una pared en ángulo hecha de lona, manta térmica, o ramas y abeto, de la misma forma que se hace para una nodya.",
+  "steps": [
+    "Coloca dos postes paralelos inclinados alejándose del fuego — actúan como rieles para los troncos.",
+    "Coloca dos troncos base paralelos en el suelo y enciende un fuego entre ellos.",
+    "Apila troncos de menor a mayor tamaño sobre los rieles inclinados, formando algo parecido al respaldo de una silla.",
+    "Clava estacas a los lados para que los troncos apilados no puedan rodar.",
+    "A medida que los troncos base se consumen, los troncos apilados rodarán hacia abajo y alimentarán el fuego automáticamente.",
+    "Coloca el reflector detrás del fuego y duerme a no menos de medio metro de él, asegurándote de que el humo no se acumule bajo el refugio."
+  ],
+  "images": [
+    {
+      "src": "images/photo.webp",
+      "width": 700,
+      "height": 500
+    }
+  ],
+  "credit": {
+    "text": ""
+  }
+}

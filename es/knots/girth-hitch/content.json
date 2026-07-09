@@ -1,0 +1,34 @@
+{
+  "title": "Nudo de alondra (vuelta de braza)",
+  "description": "Un nudo simple para colgar un lazo de un anclaje, rama o estaca, por ejemplo un viento de tienda. Rápido de atar y fácil de convertir en un nudo dinámico. Puede resbalar bajo carga desigual, así que usa un nudo de respaldo en puntos críticos.",
+  "steps": [
+    "Pasa la cuerda sobre el anclaje de modo que ambos extremos cuelguen uno junto al otro.",
+    "Dobla la cuerda formando un lazo y pasa ese lazo por debajo del anclaje.",
+    "Aprieta tirando del lazo hacia arriba contra el anclaje."
+  ],
+  "images": [
+    {
+      "src": "images/step-1.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-2.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-3.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-4.webp",
+      "width": 675,
+      "height": 450
+    }
+  ],
+  "credit": {
+    "text": ""
+  }
+}

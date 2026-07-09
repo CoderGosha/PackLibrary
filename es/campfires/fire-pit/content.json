@@ -1,0 +1,20 @@
+{
+  "title": "Fogata en pozo (agujero de fuego dakota)",
+  "description": "Básicamente es una hornilla excavada en el suelo con el fuego ardiendo dentro, también conocida como agujero de fuego dakota o fogata polinesia. Muy práctica para cocinar, casi invisible a distancia, y no irradia calor hacia afuera, así que puedes secar tu equipo justo al lado sin riesgo de chamuscarlo. La principal desventaja es que da casi nada de luz, y no se puede cavar sin una pala.",
+  "steps": [
+    "Elige un lugar en terreno ligeramente elevado y cava un pozo para el fuego en sí, de un tamaño que permita que el fuego quepa completamente dentro.",
+    "Cava un segundo túnel, más estrecho, hacia él para la ventilación — su diámetro debe ser al menos un tercio del diámetro del pozo principal.",
+    "Enciende un fuego dentro del pozo principal usando una disposición normal (una disposición tipi funciona bien).",
+    "Al cocinar, asegúrate de que la olla no bloquee por completo la abertura superior — de lo contrario se pierde el tiro y el fuego empieza a apagarse."
+  ],
+  "images": [
+    {
+      "src": "images/photo.webp",
+      "width": 700,
+      "height": 500
+    }
+  ],
+  "credit": {
+    "text": ""
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Información general",
+  "description": "Una fogata en un viaje no es solo calor y comida caliente: es una habilidad real que necesitas aprender de antemano. Con equipo moderno (hornillo, ropa de abrigo, linterna frontal) puedes arreglártelas sin fuego, pero encenderlo rápido y de forma fiable, incluso con lluvia o frío intenso, solo funciona para quienes se prepararon con antelación en lugar de improvisar sobre la marcha.",
+  "steps": [
+    "Lleva una fuente de fuego fiable — cerillas, un encendedor o un pedernal (fire steel) — más yesca seca: corteza de abedul, algodón empapado en parafina, o una pastilla de hexamina. Prepárala y séllala (por ejemplo en una bolsa hermética) de antemano en lugar de buscar material seco sobre el terreno.",
+    "Busca yesca y ramas finas en ramas colgantes o rotas que aún estén en los árboles, no en el suelo — los troncos que llevan tiempo tirados en el suelo apenas arden. Las coníferas suelen tener ramas bajas secas incluso en un árbol vivo.",
+    "Elige un lugar plano que no se inunde con la lluvia. Retira las hojas y la hierba secas, rodea el sitio con piedras o cava una zanja alrededor, y sobre nieve despeja hasta el suelo desnudo o coloca una base de ramas para que la yesca no se humedezca.",
+    "Enciende primero la yesca y las ramas finas, luego añade poco a poco ramas más grandes a medida que prende. No amontones toda la leña de golpe — sin circulación de aire el fuego se apaga.",
+    "Reúne leña de distintos tamaños con antelación, suficiente para 1-2 horas de combustión — si tienes que salir a buscar más leña de noche, el fuego puede apagarse antes de que vuelvas.",
+    "Nunca dejes un fuego sin vigilancia. Antes de irte, apágalo por completo: esparce las brasas y échales agua o entiérralas en arena, incluso si el fuego parece ya apagado — el suelo puede seguir ardiendo bajo el hoyo y provocar un incendio forestal.",
+    "No está permitido encender fuego en todas partes — muchas reservas naturales y áreas protegidas prohíben las fogatas por completo, y los bosques están sujetos a normas de seguridad contra incendios. Consulta las normas locales antes de salir."
+  ],
+  "images": [
+    {
+      "src": "images/tinder-kit.webp",
+      "width": 700,
+      "height": 500
+    },
+    {
+      "src": "images/fire-steel.webp",
+      "width": 700,
+      "height": 500
+    },
+    {
+      "src": "images/firewood-kit.webp",
+      "width": 700,
+      "height": 500
+    }
+  ],
+  "credit": {
+    "text": ""
+  }
+}

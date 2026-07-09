@@ -1,0 +1,19 @@
+{
+  "title": "Nudo de lazo simple",
+  "description": "Un lazo básico atado en la mitad o el extremo de una cuerda para crear un punto de anclaje fijo, usado habitualmente en la línea principal de una hamaca. Rápido de atar y usa muy poca cuerda, lo que resulta práctico para un nudo que piensas dejar puesto durante mucho tiempo. Puede apretarse y volverse más difícil de deshacer después de soportar una carga pesada.",
+  "steps": [
+    "Dobla la cuerda sobre sí misma para formar un lazo.",
+    "Ata un nudo simple con la cuerda doblada, dejando el lazo suelto en el extremo.",
+    "Aprieta de manera uniforme y comprueba que el lazo tenga el tamaño que necesitas."
+  ],
+  "images": [
+    {
+      "src": "images/step-1.webp",
+      "width": 990,
+      "height": 493
+    }
+  ],
+  "credit": {
+    "text": ""
+  }
+}

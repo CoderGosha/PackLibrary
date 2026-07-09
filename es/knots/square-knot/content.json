@@ -1,0 +1,34 @@
+{
+  "title": "Nudo llano (nudo de rizo)",
+  "description": "Un nudo de amarre para unir dos extremos de grosor similar: cerrar un petate, tela, o cordones de zapatos. Requiere un patrón cuidadoso — atado al revés, se convierte en un nudo de abuela que se desliza solo.",
+  "steps": [
+    "Cruza el extremo derecho sobre el izquierdo y pásalo por debajo.",
+    "Con el mismo extremo (ahora a la izquierda), crúzalo sobre el otro y pásalo por debajo de nuevo.",
+    "Aprieta: ambos extremos deben salir del nudo en paralelo a los firmes."
+  ],
+  "images": [
+    {
+      "src": "images/step-1.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-2.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-3.webp",
+      "width": 675,
+      "height": 450
+    },
+    {
+      "src": "images/step-4.webp",
+      "width": 675,
+      "height": 450
+    }
+  ],
+  "credit": {
+    "text": ""
+  }
+}

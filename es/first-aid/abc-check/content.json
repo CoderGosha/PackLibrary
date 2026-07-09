@@ -1,0 +1,23 @@
+{
+  "title": "Consciencia, respiración y RCP",
+  "description": "Una vez que la escena es segura, comprueba si la víctima está consciente y respira: eso decide si empiezas la RCP.",
+  "steps": [
+    "Comprueba la consciencia — habla con la víctima y sacúdele suavemente los hombros.",
+    "Si está consciente, pasa directamente a la revisión secundaria de lesiones.",
+    "Si está inconsciente, comprueba primero la respiración, no el pulso — bajo estrés es fácil confundir tu propio pulso con el de la víctima.",
+    "Despeja el pecho de ropa, inclina suavemente la cabeza hacia atrás (una mano en la frente, dos dedos bajo el mentón), y durante unos segundos escucha con el oído, siente con la mejilla y observa el movimiento del pecho.",
+    "Si respira, colócala en posición de recuperación y pasa a la revisión secundaria.",
+    "Si no respira y está inconsciente, empieza la RCP de inmediato: 30 compresiones torácicas de 5–6 cm de profundidad, alternadas con 2 respiraciones de rescate.",
+    "Continúa hasta que aparezcan signos de vida o lleguen los rescatistas — al aire libre esto puede llevar horas en lugar de minutos, así que túrnate con otra persona cuando puedas y no te rindas antes de tiempo."
+  ],
+  "images": [
+    {
+      "src": "images/recovery-position.webp",
+      "width": 700,
+      "height": 528
+    }
+  ],
+  "credit": {
+    "text": ""
+  }
+}

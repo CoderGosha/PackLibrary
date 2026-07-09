@@ -1,0 +1,21 @@
+{
+  "title": "Vela finlandesa",
+  "description": "También conocida como vela taiga. Práctica para cocinar, pero notablemente peor que otras disposiciones a la hora de calentar o iluminar el entorno. La versión simple necesita un tronco de al menos 20 cm de diámetro y algo de alambre: divide el tronco en 4-8 cuñas, cepilla las caras internas, vuelve a armarlo y sujétalo con alambre, dejando pequeños huecos para la ventilación. La versión clásica corta el 70-80% del tronco en lugar de partirlo del todo. Según el tamaño, una vela así arde entre media hora y cuatro horas.",
+  "steps": [
+    "Toma un tronco seco de al menos 20 cm de diámetro.",
+    "Divídelo en 4-8 cuñas (o sierra a lo largo del 70-80% de la longitud del tronco sin partirlo del todo).",
+    "Cepilla o rebaja las caras internas de las cuñas para dejar espacio para la yesca.",
+    "Vuelve a armar el tronco alrededor de la yesca colocada en el centro, y sujétalo por fuera con alambre, dejando pequeños huecos para la ventilación.",
+    "Enciende la yesca desde el centro superior. Para facilitar la cocción, entierra ligeramente la vela o usa un corte plano en la parte superior para que la olla se apoye con firmeza."
+  ],
+  "images": [
+    {
+      "src": "images/photo.webp",
+      "width": 700,
+      "height": 500
+    }
+  ],
+  "credit": {
+    "text": ""
+  }
+}
